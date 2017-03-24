@@ -1,0 +1,7 @@
+Input:
+	1: Rectangle at (0,0), w=50, h=50.
+	2: Rectangle at (100,100), w=250, h=80.
+	3: Rectangle at (-10,-10), w=5, h=5.
+	4: Rectangle at (1000,1000), w=2, h=2.
+
+Intersections:
